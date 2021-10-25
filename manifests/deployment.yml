@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: aws-example-octodex
-        image: 794039383763.dkr.ecr.us-east-1.amazonaws.com/lab-flux:cf5142bb2fd73bb1db6d7efd5618b06cb8831353
+        image: 794039383763.dkr.ecr.us-east-1.amazonaws.com/lab-flux:ccfaf67e41b2ffd8268d04d380c17afe685348aa
         ports:
         - containerPort: 5000
         resources:
